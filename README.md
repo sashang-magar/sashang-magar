@@ -8,18 +8,12 @@
 - 👨‍💻 All of my projects are available at [sashang-magar.github.io](sashang-magar.github.io)
 
 - 📫 How to reach me **sashangmagar@gmail.com**
-- ## 🔗 I am a Content Creator. 😊😊
 
-Stay updated following on Instagram, Facebook and Twitter.
-
- [![Sashang Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](Soon!) [![Sashang's Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](Soon!) [![Sashang Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/sashang_magar)
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/sashang-magar/sashang-magar/blob/output/github-contribution-grid-snake.svg?theme=radical&type=horizontal" alt="Sashang's GitHub Contribution Graph" />
 </div>
 
 
