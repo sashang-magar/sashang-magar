@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sashang Thapa Magar</h1>
 <h3 align="center">Django | Open to Collaborations</h3>
 
-<div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-@sashang_magar-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sashang_magar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashang_Thapa_Magar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sashang-magar)
-[![Email](https://img.shields.io/badge/Email-sashangmagar%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sashangmagar21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sashang--magar.github.io-4285F4?style=flat&logo=google-chrome)](https://sashang-magar.github.io)
-
-</div>
-
 ---
 
 - **🌱 I’m currently learning Exploring: Django 🐍**
@@ -95,18 +86,14 @@
 
 ---
 
-### 📊 Real GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashang-magar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashang-magar&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-@sashang_magar-1DA1F2)](https://twitter.com/sashang_magar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashang_Thapa_Magar-0077B5)](https://linkedin.com/in/sashang-magar)
-[![Email](https://img.shields.io/badge/Email-sashangmagar%40gmail.com-D14836)](mailto:sashangmagar21@gmail.com)
 
----
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-@sashang_magar-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sashang_magar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sashang_Thapa_Magar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sashang-magar)
+[![Email](https://img.shields.io/badge/Email-sashangmagar%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sashangmagar21@gmail.com)
+
+</div>
+
 
