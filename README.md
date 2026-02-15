@@ -80,10 +80,9 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashang-magar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashang-magar&layout=compact&theme=radical&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashang-magar&show_icons=true&theme=radical&v=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashang-magar&layout=compact&theme=radical&hide=html,css&v=1" />
 </p>
-
 ---
 
 ### 🤝 Let's Connect
